@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **java**
 
-- 👨‍💻 All of my projects are availableee at [https://anike151.github.io/Aniket.io/](https://anike151.github.io/Aniket.io/)
+- 👨‍💻 Welcome to my Portfolio [https://anike151.github.io/Aniket.io/](https://anike151.github.io/Aniket.io/)
 
 - 📫 How to reach me **aniketkumarsah151@gmail.com**
 
@@ -21,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anike151&show_icons=true&locale=en&layout=compact" alt="anike151" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anike151&show_icons=true&locale=en" alt="anike151" /></p>
-
