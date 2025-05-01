@@ -1,7 +1,8 @@
 ![logo](https://github.com/anike151/anike151/blob/main/Github%20Banner.png.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar Sah</h1>
-<h3 align="center">I am a Computer Science and Engineering studentat Ramaiah Institute of Technology with a keen interest in innovative tech projects.</h3<img align="right" alt="coding girl" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+<h3 align="center">I am a Computer Science and Engineering studentat Ramaiah Institute of Technology with a keen interest in innovative tech projects.
+<img align="right" alt="coding girl" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anike151&label=Profile%20views&color=0e75b6&style=flat" alt="anike151" /> </p>
 
