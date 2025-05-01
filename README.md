@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/anike151/anike151/blob/main/Github%20Banner.png.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Kumar Sah</h1>
 <h3 align="center">I am a Computer Science and Engineering studentat Ramaiah Institute of Technology with a keen interest in innovative tech projects.</h3>
